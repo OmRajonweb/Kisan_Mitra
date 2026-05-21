@@ -1,0 +1,66 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn-integrity
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+*.pem
+Thumbs.db
+*.log
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# vercel
+.vercel
+
+# netlify
+.netlify
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.production
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS generated files
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Optional: cache directories
+.cache/
+.temp/
+.tmp/
